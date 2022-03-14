@@ -18,7 +18,7 @@ https://github.com/Elswee13/IamRichApp
 ![Projecto I am Rich](https://user-images.githubusercontent.com/77897104/158213352-077b75f3-3e1a-4d90-891e-b7184976f44c.png)
 
 
-My Third Project: Magic 8 Ball(https://github.com/Elswee13/Magic8BallGame)
+My Third Project: Magic 8 Ball
 
 https://github.com/Elswee13/Magic8BallGame
 
