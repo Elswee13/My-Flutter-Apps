@@ -13,4 +13,6 @@ https://github.com/Elswee13/IamPoorApp
 
 My Second Project: IamRich
 
+https://github.com/Elswee13/IamRichApp
+
 ![Projecto I am Rich](https://user-images.githubusercontent.com/77897104/158213352-077b75f3-3e1a-4d90-891e-b7184976f44c.png)
