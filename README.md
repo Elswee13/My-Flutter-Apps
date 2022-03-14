@@ -22,7 +22,7 @@ My Third Project: Magic 8 Ball
 
 https://github.com/Elswee13/Magic8BallGame
 
-![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/158223740-bb0801c8-d0f4-48d6-bbc9-641b85cbcae6.png)
+![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/158275686-acf72957-f4f8-4d62-aa26-9615c40f1d66.png)
 
 My fourth App: DiceGameApp
 
