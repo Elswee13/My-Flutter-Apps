@@ -8,3 +8,5 @@ I managed to make an application for a friend, which I will not be able to show 
 My First Project: IamPoorApp
 
 https://github.com/Elswee13/IamPoorApp
+
+![Project I am Poor](https://user-images.githubusercontent.com/77897104/158188466-aba463fc-d716-4340-9f77-2d68c81a171f.png)
