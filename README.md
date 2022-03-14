@@ -24,4 +24,5 @@ https://github.com/Elswee13/Magic8BallGame
 
 ![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/158223740-bb0801c8-d0f4-48d6-bbc9-641b85cbcae6.png)
 
-My fourth App: DiceGame
+My fourth App: DiceGameApp
+
