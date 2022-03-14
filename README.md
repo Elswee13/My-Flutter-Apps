@@ -15,15 +15,17 @@ My Second Project: IamRich
 
 https://github.com/Elswee13/IamRichApp
 
-![Projecto I am Rich](https://user-images.githubusercontent.com/77897104/158275765-667f964e-fe66-4ab3-aaa3-14f8e1a28f1d.png)
+![Projecto I am Rich](https://user-images.githubusercontent.com/77897104/158276048-c2fa5c26-6ef5-4965-b6f9-a7e427a2f75d.png)
 
 
 My Third Project: Magic 8 Ball
 
 https://github.com/Elswee13/Magic8BallGame
 
-![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/158275686-acf72957-f4f8-4d62-aa26-9615c40f1d66.png)
+![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/158276049-f13f9b6b-925d-4ba9-a8c9-13622b99ae60.png)
 
 My fourth App: DiceGameApp
 
-![Projecto Dicee ](https://user-images.githubusercontent.com/77897104/158275834-458986ff-e940-4fd6-a54d-f7f2723ee7ec.png)
+![Projecto Dicee ](https://user-images.githubusercontent.com/77897104/158276046-0402d778-5f0a-4d12-81a9-1eacbae304b9.png)
+
+
