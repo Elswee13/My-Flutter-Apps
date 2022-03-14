@@ -10,3 +10,9 @@ My First Project: IamPoorApp
 https://github.com/Elswee13/IamPoorApp
 
 ![Project I am Poor](https://user-images.githubusercontent.com/77897104/158188466-aba463fc-d716-4340-9f77-2d68c81a171f.png)
+
+My Second Project: IamRich
+
+https://github.com/Elswee13/IamRichApp
+
+![Projecto I am Rich](https://user-images.githubusercontent.com/77897104/158213352-077b75f3-3e1a-4d90-891e-b7184976f44c.png)
