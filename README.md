@@ -20,3 +20,7 @@ https://github.com/Elswee13/IamRichApp
 
 My Third Project: Magic 8 Ball
 
+
+
+![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/158223740-bb0801c8-d0f4-48d6-bbc9-641b85cbcae6.png)
+
