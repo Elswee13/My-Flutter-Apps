@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Projecto Magic 8 Ball](https://user-images.githubusercontent.com/77897104/167881720-1c27da0f-2705-4a18-b10a-23d4d05184d5.png)
