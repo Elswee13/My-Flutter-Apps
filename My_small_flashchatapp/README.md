@@ -25,3 +25,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![Flash Chat Demo](https://user-images.githubusercontent.com/77897104/167881569-2aefb038-e80d-4bbb-86e7-048d1480e5bd.png)
